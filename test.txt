@@ -1,1 +1,3 @@
-Este parrafor lo voy a usar para hacer un test usando git extension para clonar este mismo repositorio. Se agrega esta linea nueva 
+Este parrafo lo voy a usar para hacer un test usando git extension para clonar este mismo repositorio.
+
+La linea anterior se corrige, queda pendiente luego borrar esta linea del archivo.
