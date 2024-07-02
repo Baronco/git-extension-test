@@ -1,3 +1,5 @@
 Este parrafo lo voy a usar para hacer un test usando git extension para clonar este mismo repositorio.
 
+Esta linea se crea para genera un conflicto con la rama dev
+
 La linea anterior se corrige, queda pendiente luego borrar esta linea del archivo.
